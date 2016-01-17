@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>{ titanium cranium }</title>
-		<description>Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine.</description>
+		<description>Blog and website of Brendan J. O&#39;Brien, blogging about my web development and motorcycles.</description>
 		<link>https://titanium-cranium.github.io</link>
 		<atom:link href="https://titanium-cranium.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
