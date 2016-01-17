@@ -110,7 +110,7 @@ events:
   - image: "/img/timeline/eye_glyph.jpg"
     date: "1997-2003"
     description: "Postdoctoral training in vision science"
-  - image: "/img/timeline/lecturing.jpg"
+  - image: "/img/timeline/me.png"
     date: "2003-2013"
     description: "Lecturing at Universities Down Under"
   - image: "/img/timeline/writing.png"
