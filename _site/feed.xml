@@ -7,6 +7,19 @@
 		<atom:link href="https://titanium-cranium.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>I speak well Ruby</title>
+				
+				
+					<description>&lt;p&gt;In my former career as a scientist, I had the life changing opportunity to live and work overseas. The fresh-faced boy that I was from Podunk, America moved to the slick city of Frankfurt am Main in Germany. While I was assured by my future colleagues long before I moved, that everyone in Germany speaks English, they lied. Life outside the laboratory for me meant learning German or learning charades. When you’re in the grocery store and you know you need batteries but you can’t find them and you have no idea what the German word for ‘battery’ is, it’s either a humorous and humbling game of charades, or your wireless keyboard stays dead (True story. The most silly part though is that I was so committed to not using English that it only prolonged the whole affair because German for battery is in fact, ‘Batterie’).&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 24 Nov 2015 00:00:00 +1100</pubDate>
+				<link>https://titanium-cranium.github.io/coding/2015/11/24/learning-ruby.html</link>
+				<guid isPermaLink="true">https://titanium-cranium.github.io/coding/2015/11/24/learning-ruby.html</guid>
+			</item>
+		
+			<item>
 				<title>Welcome to { Personal } Jekyll Theme!</title>
 				
 				

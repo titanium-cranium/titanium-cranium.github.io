@@ -104,16 +104,26 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/timeline/studying.jpg"
+    date: "1987-1997"
+    description: "Studying hard: BA (Psychology) & PhD (Neuroscience)"
+  - image: "/img/timeline/eye_glyph.jpg"
+    date: "1997-2003"
+    description: "Postdoctoral training in vision science"
+  - image: "/img/timeline/lecturing.jpg"
+    date: "2003-2013"
+    description: "Lecturing at Universities Down Under"
+  - image: "/img/timeline/writing.png"
+    date: "2013-2015"
+    description: "Writing & publishing eBooks"
+  - image: "/img/timeline/matrix.png"
+    date: "2015-today"
+    description: "Metamorphosis: From Neurocientist to Programmer"
+
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/helmet.png"
 
 ###########
 # Contact #
