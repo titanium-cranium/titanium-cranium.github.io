@@ -11,25 +11,14 @@
   
 
 
-  <!-- Force HTTPS Start -->
-  <script>
-  // Don't force http when serving the website locally
-  if (!(window.location.host.startsWith("127.0.0.1")) && (window.location.protocol != "https:"))
-    window.location.protocol = "https";
-  </script>
-
-  <!-- Force HTTPS End -->
-
-
-
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine.">
-  <meta name="author" content="John Smith">
+  <meta name="author" content="Brendan J. O'Brien">
   <meta name="keywords" content="smith, jones, personal, jekyll, theme">
   <link rel="canonical" href="/">
-  <title>{ John Smith } </title>
+  <title>{ titanium cranium } </title>
 
   <!-- Bootstrap Core CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
@@ -104,7 +93,7 @@
             
               <img src="/img/black-lab-glass.ico" alt="">
             
-            { John Smith }
+            { titanium cranium }
           </div>
         </a>
     </div>
@@ -157,7 +146,7 @@ If you want to have a static message in your intro layout, disable the dynamic-t
 </span>
             <h5>&nbsp;</h5>
             <a href="#about" class="page-scroll">
-              <img class="img-me" src="/img/jetpacktocat.png" alt="">
+              <img class="img-me" src="/img/TC_logo.jpg" alt="">
             </a>
           </div>
         </div>
@@ -416,9 +405,9 @@ to cancel the serving (Ctr + C) and serve the website again.</p>
               return (user && domain)?(user + "@" + domain):"";
               }
               document.write('<a href="mailto:'
-              + join_at_email( "your", "email.here" )
+              + join_at_email( "b.obrien", "me.com" )
               + '">'
-              + join_at_email( "your", "email.here" )
+              + join_at_email( "b.obrien", "me.com" )
               + '</a>'
               );
               </script>
@@ -431,13 +420,11 @@ to cancel the serving (Ctr + C) and serve the website again.</p>
 
 <ul class="list-inline social-buttons">
   
-    <li><a href="https://facebook.com/" target="_blank"><i class="fa fa-facebook fa-fw"></i></a></li>
+    <li><a href="https://github.com/titanium-cranium" target="_blank"><i class="fa fa-github fa-fw"></i></a></li>
   
-    <li><a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter fa-fw"></i></a></li>
+    <li><a href="http://stackoverflow.com/cv/bjobrien" target="_blank"><i class="fa fa-stack-overflow fa-fw"></i></a></li>
   
-    <li><a href="https://github.com/PanosSakkos/personal-jekyll-theme" target="_blank"><i class="fa fa-github fa-fw"></i></a></li>
-  
-    <li><a href="https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi" target="_blank"><i class="fa fa-bitcoin fa-fw"></i></a></li>
+    <li><a href="https://twitter.com/@bobrien69" target="_blank"><i class="fa fa-twitter fa-fw"></i></a></li>
   
     <li><a href="/feed.xml" target="_blank"><i class="fa fa-rss fa-fw"></i></a></li>
   
@@ -483,7 +470,7 @@ to cancel the serving (Ctr + C) and serve the website again.</p>
 
 <footer>
     <div class="container text-center">
-      <p>Copyright &copy; John Smith 2016</p>
+      <p>Copyright &copy; Brendan J. O'Brien 2016</p>
     </div>
 </footer>
 
@@ -547,33 +534,6 @@ $(window).scroll(toggleNavCollapse);$(function(){$("a.page-scroll").bind("click"
 
 
 
-  <!-- Disqus -->
-
-  
-
-  
-
-    <!-- Comments Counter Start -->
-
-    <script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-    var disqus_shortname = 'panossakkos'; // required: replace example with your forum shortname
-
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function () {
-    var s = document.createElement('script'); s.async = true;
-    s.type = 'text/javascript';
-    s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-    }());
-    </script>
-
-    <!-- Comments Counter End -->
-
-  
-
-
-
 
 
 
@@ -631,7 +591,7 @@ $(window).scroll(toggleNavCollapse);$(function(){$("a.page-scroll").bind("click"
 <script>
 function addTohistory() {
   if (!window.location.host.startsWith("127.0.0.1")) {
-    history.pushState({}, '', 'https://panossakkos.github.io/');
+    history.pushState({}, '', 'https://titanium-cranium.github.io/');
   }
 }
 </script>
