@@ -52,7 +52,7 @@ vkontakte-share: True
 You can enable <a href="http://www.disqus.com" target="\_blank">Disqus</a> comments by just setting your Disqus username here:
 
 <pre><code data-trim class="yaml">
-disqus-shortname: "Your Disqus username"
+disqus-shortname: "bjobrienphd"
 </code></pre>
 
 ### RSS feed
