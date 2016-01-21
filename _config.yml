@@ -22,7 +22,7 @@ google-tracking-id: "UA-35880426-4"
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
 
-force-https: True
+force-https: False
 
 #############
 # HTML Head #
@@ -31,8 +31,8 @@ force-https: True
 lang: "en"
 author: "Brendan J. O'Brien"
 title: "{ titanium cranium }"
-description: "Blog and website of Brendan J. O'Brien, blogging about my web development and motorcycles."
-keywords: "smith, jones, personal, jekyll, theme"
+description: "Blog and website of Brendan J. O'Brien, creating worlds for mind and machine alike."
+keywords: "Brendan O'Brien, Web Developer, Ruby on Rails, Melbourne, Australia"
 favicon: "/img/favicon.ico"
 404-img: "/img/labtocat.png"
 
@@ -80,7 +80,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 # Blog #
 ########
 
-post-preview-words: 96
+post-preview-words: 50
 
 paginate: 5
 
@@ -141,7 +141,7 @@ social:
   - title: "github"
     url: "https://github.com/titanium-cranium"
   - title: "stack-overflow"
-    url: "http://stackoverflow.com/cv/bjobrien" 
+    url: "http://stackoverflow.com/cv/bjobrien"
   - title: "amazon"
     url: "http://www.amazon.com/-/e/B00Q5XS2CO"
   - title: "university"
