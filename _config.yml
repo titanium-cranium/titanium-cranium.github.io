@@ -138,6 +138,8 @@ email: "b.obrien@me.com"
 social:
   # - title: "facebook"
   #   url: "https://facebook.com/"
+  - title: "linkedin"
+    url: "https://au.linkedin.com/in/bjobrienphd"
   - title: "github"
     url: "https://github.com/titanium-cranium"
   - title: "stack-overflow"
