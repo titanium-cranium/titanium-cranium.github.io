@@ -116,7 +116,7 @@ events:
   - image: "/img/timeline/writing.png"
     date: "2013-2015"
     description: "Writing & publishing eBooks"
-  - image: "/img/timeline/matrix.png"
+  - image: "/img/timeline/ruby.png"
     date: "2015-2016"
     description: "Metamorphosis: From Neurocientist to Programmer"
   - image: "/img/timeline/java.png"
