@@ -117,8 +117,11 @@ events:
     date: "2013-2015"
     description: "Writing & publishing eBooks"
   - image: "/img/timeline/matrix.png"
-    date: "2015-today"
+    date: "2015-2016"
     description: "Metamorphosis: From Neurocientist to Programmer"
+  - image: "/img/timeline/matrix.png"
+    date: "2016-2017"
+    description: "Software Engineer at Gate121"
 
 
 # First image of the Timeline
