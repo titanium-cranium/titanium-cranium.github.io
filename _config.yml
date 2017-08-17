@@ -119,8 +119,8 @@ events:
   - image: "/img/timeline/matrix.png"
     date: "2015-2016"
     description: "Metamorphosis: From Neurocientist to Programmer"
-  - image: "/img/timeline/gate121.png"
-    date: "2016-2017"
+  - image: "/img/timeline/java.png"
+    date: "2016-present"
     description: "Software Engineer at Gate121"
 
 
