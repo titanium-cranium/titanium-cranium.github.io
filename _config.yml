@@ -32,7 +32,7 @@ lang: "en"
 author: "Brendan J. O'Brien"
 title: "{ titanium cranium }"
 description: "Blog and website of Brendan J. O'Brien, creating worlds for mind and machine alike."
-keywords: "Brendan O'Brien, Web Developer, Ruby on Rails, Melbourne, Australia"
+keywords: "Brendan O'Brien, Polyglot Web Developer, Melbourne, Australia"
 favicon: "/img/favicon.ico"
 404-img: "/img/labtocat.png"
 
@@ -56,8 +56,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Welcome to the titanium cranium."
-  - text: "It's what's inside that counts..."
+  - text: "Welcome to the <b>titanium cranium</b>"
+  - text: "It's what's <i><inside</i> that counts..."
 
 me-img: "/img/TC_brain_logo.png"
 
