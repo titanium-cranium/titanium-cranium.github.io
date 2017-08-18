@@ -57,7 +57,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Welcome to the <b>titanium cranium</b>"
-  - text: "It's what's <i><inside</i> that counts..."
+  - text: "It's what's <i>inside</i> that counts..."
 
 me-img: "/img/TC_brain_logo.png"
 
