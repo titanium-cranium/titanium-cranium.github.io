@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cb207cce-4f1b-49d3-b9ea-9839e399951a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/post-list.html" afterPath="$PROJECT_DIR$/_includes/post-list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-322">
-              <caret line="92" column="19" lean-forward="false" selection-start-line="92" selection-start-column="19" selection-end-line="92" selection-end-column="19" />
+            <state relative-caret-position="294">
+              <caret line="97" column="43" lean-forward="true" selection-start-line="97" selection-start-column="43" selection-end-line="97" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -88,7 +88,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post-list.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="post-list.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/post-list.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -138,11 +138,11 @@
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_layouts/blog.html" />
         <option value="$PROJECT_DIR$/blog/index.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/social-buttons.html" />
         <option value="$PROJECT_DIR$/_posts/2107-08-18-the-plan.md" />
         <option value="$PROJECT_DIR$/css/grayscale.scss" />
         <option value="$PROJECT_DIR$/_includes/post-list.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -386,12 +386,12 @@
       <option name="presentableId" value="Default" />
       <updated>1502942684272</updated>
       <workItem from="1502942685459" duration="4771000" />
-      <workItem from="1503011268430" duration="8474000" />
+      <workItem from="1503011268430" duration="8722000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13245000" />
+    <option name="totallyTimeSpent" value="13493000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1337" extended-state="6" />
@@ -610,14 +610,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-322">
-          <caret line="92" column="19" lean-forward="false" selection-start-line="92" selection-start-column="19" selection-end-line="92" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/social-buttons.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -654,6 +646,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="97" column="43" lean-forward="true" selection-start-line="97" selection-start-column="43" selection-end-line="97" selection-end-column="43" />
           <folding />
         </state>
       </provider>
