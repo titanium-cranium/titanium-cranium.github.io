@@ -24,7 +24,7 @@ Brendan
 
 
 
-###[certificate.rb](https://gist.github.com/titanium-cranium/b96c751f15dd84fc40e8c4306ada565d)
+### [certificate.rb](https://gist.github.com/titanium-cranium/b96c751f15dd84fc40e8c4306ada565d)
 
     class Certificate
     
