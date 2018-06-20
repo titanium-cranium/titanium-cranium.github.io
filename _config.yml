@@ -120,9 +120,11 @@ events:
     date: "2015-2016"
     description: "Metamorphosis: From Neurocientist to Programmer"
   - image: "/img/timeline/java.png"
-    date: "2016-present"
+    date: "2016-2017"
     description: "Software Engineer at Gate121"
-
+  - image: "/img/timeline/python.jpeg"
+    date: "2017-present"
+    description: "Software Engineer/Data Scientist at Factil.io"
 
 # First image of the Timeline
 
