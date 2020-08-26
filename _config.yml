@@ -125,7 +125,7 @@ events:
   - image: "/img/timeline/python.jpeg"
     date: "2017-2018"
     description: "Software Engineer/Data Scientist at Factil.io"
-  - image: "/img/timeline/reactjs.jpg"
+  - image: "/img/timeline/reactjs.png"
     date: "2018-present"
     description: "Developer at Envato"
 
