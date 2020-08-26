@@ -125,6 +125,9 @@ events:
   - image: "/img/timeline/python.jpeg"
     date: "2017-present"
     description: "Software Engineer/Data Scientist at Factil.io"
+  - image: "/img/timeline/reactjs.jpeg"
+    date: "2018-present"
+    description: "Developer at Envato"
 
 # First image of the Timeline
 
