@@ -22,7 +22,7 @@ google-tracking-id: "UA-72745580-1"
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
 
-force-https: False
+force-https: True
 
 #############
 # HTML Head #
@@ -85,10 +85,10 @@ post-preview-words: 50
 paginate: 5
 
 email-share: True
-fb-share: True
-twitter-share: True
+fb-share: False
+twitter-share: False
 linkedin-share: True
-reddit-share: True
+reddit-share: False
 google-plus-share: False
 tumblr-share: False
 pinterest-share: False
@@ -123,9 +123,9 @@ events:
     date: "2016-2017"
     description: "Software Engineer at Gate121"
   - image: "/img/timeline/python.jpeg"
-    date: "2017-present"
+    date: "2017-2018"
     description: "Software Engineer/Data Scientist at Factil.io"
-  - image: "/img/timeline/reactjs.jpeg"
+  - image: "/img/timeline/reactjs.jpg"
     date: "2018-present"
     description: "Developer at Envato"
 
