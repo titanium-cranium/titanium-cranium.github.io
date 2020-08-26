@@ -86,9 +86,9 @@ paginate: 5
 
 email-share: True
 fb-share: False
-twitter-share: False
+twitter-share: True 
 linkedin-share: True
-reddit-share: False
+reddit-share: True 
 google-plus-share: False
 tumblr-share: False
 pinterest-share: False
