@@ -11,12 +11,23 @@
   
 
 
+  <!-- Force HTTPS Start -->
+  <script>
+  // Don't force http when serving the website locally
+  if (!(window.location.host.startsWith("127.0.0.1")) && (window.location.protocol != "https:"))
+    window.location.protocol = "https";
+  </script>
+
+  <!-- Force HTTPS End -->
+
+
+
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Blog and website of Brendan J. O'Brien, creating worlds for mind and machine alike.">
   <meta name="author" content="Brendan J. O'Brien">
-  <meta name="keywords" content="Brendan O'Brien, Web Developer, Ruby on Rails, Melbourne, Australia">
+  <meta name="keywords" content="Brendan O'Brien, Polyglot Web Developer, Melbourne, Australia">
   <link rel="canonical" href="/blog/">
   <title>{ titanium cranium }  | Blog</title>
 
@@ -110,7 +121,7 @@
             <li>
             
               
-                <a class="page-scroll" href="#page"> Blog </a>
+                <a href="/blog/"> Blog </a>
               
             
             </li>
@@ -169,23 +180,6 @@
 
         <div>
           
-            
-<!-- Post List Start -->
-
-<h4 align="left">
-  <strong>24 Nov 2015</strong>
-  <small>. coding .</small>
-  <br class="visible-xs-block">
-  <a href="/coding/2015/11/24/learning-ruby.html">
-    <strong>I speak well Ruby</strong>
-  </a>
-  <br class="visible-xs-block">
-  <small><a href="/coding/2015/11/24/learning-ruby.html#disqus_thread">Comments</a></small>
-</h4>
-
-<!-- Post List End -->
-
-          
         </div>
 
         
@@ -211,9 +205,7 @@
         
 <!-- Social Buttons Start -->
 
-<ul class="list-inline social-buttons">
-  
-    <li><a href="https://au.linkedin.com/in/bjobrienphd" target="_blank"><i class="fa fa-linkedin fa-fw"></i></a></li>
+<ul class="list-inline social-buttons text-center">
   
     <li><a href="https://au.linkedin.com/in/bjobrienphd" target="_blank"><i class="fa fa-linkedin fa-fw"></i></a></li>
   
@@ -224,8 +216,6 @@
     <li><a href="http://www.amazon.com/-/e/B00Q5XS2CO" target="_blank"><i class="fa fa-amazon fa-fw"></i></a></li>
   
     <li><a href="https://scholar.google.com.au/citations?user=qORoKiYAAAAJ&hl=en" target="_blank"><i class="fa fa-university fa-fw"></i></a></li>
-  
-    <li><a href="https://twitter.com/@bobrien69" target="_blank"><i class="fa fa-twitter fa-fw"></i></a></li>
   
 </ul>
 
@@ -241,7 +231,7 @@
 
 <footer>
     <div class="container text-center">
-      <p>Copyright &copy; Brendan J. O'Brien 2016</p>
+      <p>Copyright &copy; Brendan J. O'Brien 2021</p>
     </div>
 </footer>
 
@@ -286,7 +276,7 @@ $(window).scroll(toggleNavCollapse);$(function(){$("a.page-scroll").bind("click"
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    ga('create', 'UA-35880426-4', 'auto');
+    ga('create', 'UA-72745580-1', 'auto');
     ga('send', 'pageview');
   </script>
 
@@ -307,7 +297,7 @@ $(window).scroll(toggleNavCollapse);$(function(){$("a.page-scroll").bind("click"
 
     <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-    var disqus_shortname = 'bjobrienphd'; // required: replace example with your forum shortname
+    var disqus_shortname = 'titaniumcraniumgithubio'; // required: replace example with your forum shortname
 
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function () {
@@ -331,7 +321,7 @@ $(window).scroll(toggleNavCollapse);$(function(){$("a.page-scroll").bind("click"
 <script>
 function addTohistory() {
   if (!window.location.host.startsWith("127.0.0.1")) {
-    history.pushState({}, 'Blog', 'https://titanium-cranium.github.io/blog/index.html');
+    history.pushState({}, 'Blog', 'https://titanium-cranium.github.io/blog/');
   }
 }
 </script>

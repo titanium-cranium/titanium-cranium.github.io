@@ -13,7 +13,7 @@
   
     
       <url>
-        <loc>https://titanium-cranium.github.io/blog/index.html</loc>
+        <loc>https://titanium-cranium.github.io/blog/</loc>
         
           
           
@@ -26,7 +26,7 @@
   
     
       <url>
-        <loc>https://titanium-cranium.github.io/index.html</loc>
+        <loc>https://titanium-cranium.github.io/</loc>
         
           
           
@@ -49,6 +49,71 @@
   
     
   
+    
+  
+  
+    <url>
+      <loc>https://titanium-cranium.github.io/ruby%20code/2017/08/30/Certificate.html</loc>
+      
+        <lastmod>2017-08-30T00:00:00+10:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://titanium-cranium.github.io/job%20hunt%20diary/2017/08/25/Days7-9.html</loc>
+      
+        <lastmod>2017-08-25T00:00:00+10:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://titanium-cranium.github.io/job%20hunt%20diary/2017/08/21/Day5-6.html</loc>
+      
+        <lastmod>2017-08-21T00:00:00+10:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://titanium-cranium.github.io/job%20hunt%20diary/2017/08/19/Day4.html</loc>
+      
+        <lastmod>2017-08-19T00:00:00+10:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://titanium-cranium.github.io/job%20hunt%20diary/2017/08/18/the-plan.html</loc>
+      
+        <lastmod>2017-08-18T00:00:00+10:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://titanium-cranium.github.io/job%20hunt%20diary/2017/08/18/Day3.html</loc>
+      
+        <lastmod>2017-08-18T00:00:00+10:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://titanium-cranium.github.io/job%20hunt%20diary/2017/08/17/redundant.html</loc>
+      
+        <lastmod>2017-08-17T00:00:00+10:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
   
     <url>
       <loc>https://titanium-cranium.github.io/coding/2015/11/24/learning-ruby.html</loc>

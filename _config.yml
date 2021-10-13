@@ -86,9 +86,9 @@ paginate: 5
 
 email-share: True
 fb-share: False
-twitter-share: True 
+twitter-share: True
 linkedin-share: True
-reddit-share: True 
+reddit-share: True
 google-plus-share: False
 tumblr-share: False
 pinterest-share: False
@@ -126,8 +126,11 @@ events:
     date: "2017-2018"
     description: "Software Engineer/Data Scientist at Factil.io"
   - image: "/img/timeline/reactjs.png"
-    date: "2018-present"
-    description: "Developer at Envato"
+    date: "2018-2021"
+    description: "Engineer at Envato"
+  - image: "/img/timeline/python.jpeg"
+    date: "2021-present"
+    description: "Engineering Consultant at DiUS"
 
 # First image of the Timeline
 
